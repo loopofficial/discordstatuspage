@@ -64,7 +64,7 @@ Have ideas to improve the bot? Contributions are welcome! Feel free to fork the 
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the NonCommercial 4.0 International (CC BY-NC 4.0) License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
